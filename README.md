@@ -4,4 +4,4 @@
 2. cd Container-Mointoring-tool
 3. chmod +x startup.sh
 4. sudo ./startup.sh
-   follow the instructions popup on terminal
+5. Follow the instructions popup on terminal
