@@ -5,3 +5,8 @@
 3. chmod +x startup.sh
 4. sudo ./startup.sh
 5. Follow the instructions popup on terminal
+
+##OUTPUT
+
+![image](https://github.com/user-attachments/assets/727482bd-a259-49d2-9acb-c79daafa1229)
+
